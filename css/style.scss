@@ -1,0 +1,165 @@
+#light{
+    color: rgb(122, 122, 122);
+}
+
+
+#goku{
+      font-size: 11px;
+      background-color: transparent;
+      border: none;
+      width: 10px;
+      height: 27px ;
+
+}
+
+#vegita{
+    font-size: 14px;
+    background-color: transparent;
+    border:none;
+    width: 16px;
+    height: 27px;
+}
+
+#trunks{
+    background-color: transparent;
+    width: 24px ;
+    height: 27px;
+}
+
+#gohan{
+    background-color: black;
+    color: white;
+    width: 24px;
+    height: 27px ;
+}
+
+#font{
+    font-size: 23px;
+    font-weight: bold;
+    padding-right: 25px;
+}
+
+#search{
+    width: 561px;
+    height: 38px;
+    font-size: 17px;
+    color: lightgray;
+}
+
+
+#flag{
+     width: 50px;
+     margin-left: 16px;
+     margin-top: -5px;
+     padding-top: 2px;
+}
+
+.EN{
+    font-size: 23px;
+    margin-left: 15px;
+    
+}
+
+.fa-solid{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    margin-left: 12px;
+    font-size: 37px;
+    color: lightgray;
+}
+
+.fa-user-lock{
+      width: 1px;
+      height: 1px;
+}
+
+
+#login{
+    margin-left: 90px;
+    font-size: 32px;
+    color:  rgb(185, 51, 51);
+}
+
+
+#Enroll{
+    margin-left: 5px;
+    font-size:32px ;
+    color:  rgb(185, 51, 51);
+}
+
+li{
+    float: left;
+    font-size: 18px;
+}
+
+li a{
+    display: inline;
+    padding: 14px;
+    font-size: 30px;
+    background-color: #c32026;
+    color: #fff;
+    text-decoration: none;
+}
+    
+ul{
+    list-style: none;
+
+}
+
+
+.multi{
+    text-decoration: none;
+    padding-left: 8px;
+    color: gray;
+}
+
+.grid{
+      display: grid;
+      grid-template-columns: 54px 65px 2px 3px;
+}
+
+.type{
+     width: 10px;
+}
+
+.top-grid{
+display: grid;
+grid-template-columns: 81px;
+margin-left: 50px;
+padding-top: 17px;
+}     
+
+.code{
+width: 130px;
+}
+
+.code2{
+padding-top: 10px;
+}
+
+.letter{
+font-style: italic;
+padding-left: 1ex;
+font-weight: 1000;
+font-size: 23px;
+}
+
+
+.button{
+border-radius: 12px;
+padding-left: 10px;
+background-color:#cf2436;
+color: white;
+}
+
+.z-index{
+    left: 111px;
+    top: 280px;
+    position: absolute;
+    z-index: 55;
+    background-color: white
+}
+
+
+
+
